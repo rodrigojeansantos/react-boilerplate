@@ -24,7 +24,7 @@ const Highlight = ({
     {!!floatImage && <S.FloatImage src={floatImage} alt={title} />}
     <S.Content>
       <S.Title>{title}</S.Title>
-      <S.SubTitle>{subtitle}</S.SubTitle>
+      <S.Subtitle>{subtitle}</S.Subtitle>
       <Button as="a" href={buttonLink}>
         {buttonLabel}
       </Button>
