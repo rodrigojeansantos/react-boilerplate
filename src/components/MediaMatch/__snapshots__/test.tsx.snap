@@ -8,4 +8,4 @@ exports[`<MediaMatch /> should render the heading 1`] = `
     MediaMatch
   </h1>
 </main>
-`
+`;

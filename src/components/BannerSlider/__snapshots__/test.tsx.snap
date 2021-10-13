@@ -8,4 +8,4 @@ exports[`<BannerSlider /> should render the heading 1`] = `
     BannerSlider
   </h1>
 </main>
-`
+`;

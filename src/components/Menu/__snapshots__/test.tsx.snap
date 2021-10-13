@@ -8,4 +8,4 @@ exports[`<Menu /> should render the heading 1`] = `
     Menu
   </h1>
 </main>
-`
+`;
