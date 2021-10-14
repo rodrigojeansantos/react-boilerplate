@@ -8,4 +8,4 @@ exports[`<GameCardSlider /> should render the heading 1`] = `
     GameCardSlider
   </h1>
 </main>
-`
+`;
