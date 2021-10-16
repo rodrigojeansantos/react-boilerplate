@@ -9,6 +9,8 @@ import Menu from 'components/Menu'
 import GameCardSlider from 'components/GameCardSlider'
 import BannerSlider from 'components/BannerSlider'
 
+import * as S from './styles'
+
 export type HomeTemplateProps = {
   banners: BannerProps[]
   newGames: GameCardProps[]
